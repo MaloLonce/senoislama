@@ -1,0 +1,2 @@
+# senoislama
+Interakcija medu nalozima
